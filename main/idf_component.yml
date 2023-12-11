@@ -1,0 +1,4 @@
+dependencies:
+  espressif/led_strip: "^2.0.0"
+  esp-now: "^2.4.0"
+
